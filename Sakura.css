@@ -454,7 +454,7 @@ article.embedWrapper_b558d0.embedFlexGrow_b558d0.embedFull_b0068a.embed_b0068a.m
 }
 
 .membersWrap_cbd271:hover {
-	box-shadow: 0 0 20px 10px #00000044;
+	box-shadow: 0 0 20px 10px #24212144;
 }
 
 .membersGroup_cbd271 {
@@ -516,6 +516,10 @@ article.embedWrapper_b558d0.embedFlexGrow_b558d0.embedFull_b0068a.embed_b0068a.m
   justify-content: space-evenly;
 }
 */
+
+
+
+
 
 
 
@@ -1047,11 +1051,6 @@ button[aria-label="Send a gift"] {
   background-color: var(--darkplus-bg);
 }
 
-
-.icon_d8bfb3 {
-  color: var(--darkplus-sec);
-}
-
 .modeUnreadImportant_d8bfb3 .icon_d8bfb3, .modeUnreadImportant_d8bfb3 .name_d8bfb3, .modeSelected_d8bfb3 .icon_d8bfb3, .modeSelected_d8bfb3:hover .icon_d8bfb3, .modeUnreadImportant_d8bfb3 .icon_d8bfb3, .modeUnreadImportant_d8bfb3:hover .icon_d8bfb3, .modeConnected_d8bfb3 .name_d8bfb3, .modeConnected_d8bfb3:hover .name_d8bfb3, .modeSelected_d8bfb3 .name_d8bfb3, .modeSelected_d8bfb3:hover .name_d8bfb3, .modeUnreadImportant_d8bfb3 .name_d8bfb3, .modeUnreadImportant_d8bfb3:hover .name_d8bfb3 {
   color: var(--darkplus-links);
 }
@@ -1075,6 +1074,11 @@ button[aria-label="Send a gift"] {
 .pageButton-1GMGeJ {
   color: var(--darkplus-sec);
 }
+
+
+
+
+
 
 .theme-dark .activeButton-LRWFC_,
 .theme-dark .activeButton-LRWFC_:hover,
@@ -1125,7 +1129,7 @@ button[aria-label="Send a gift"] {
 }
 .secondary__45d4f {
   background-color: var(--darkplus-bg2);
-  color: var(--darkplus-sec);
+  color: var(--darkplus-sec); 
 }
 .secondary__45d4f:hover:not(.disabled__4d064) {
   background-color: var(--darkplus-bg2);
@@ -1641,17 +1645,9 @@ button[aria-label="Send a gift"] {
 	--streaming-indicator: hsl(260, 60%, 60%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: hsl(190, 70%, 60%); /* links */
+
 	--accent-2: #fad9f6; /* online */
 	--accent-3: #fad9f6; /* accent buttons */
-	--accent-4: hsl(190, 70%, 36%); /* accent buttons when hovered */
-	--accent-5: hsl(190, 70%, 30%); /* accent buttons when clicked */
-	--mention: hsla(190, 80%, 52%, 0.1); /* mentions & mention messages */
-	--mention-hover: hsla(190, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
-
-	/* background and dark colors */
-
-	--bg-4: #383538; /* main background color */
 
 	/* amount of spacing and padding */
 	--spacing: 12px;
