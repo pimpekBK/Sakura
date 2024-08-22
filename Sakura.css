@@ -516,13 +516,6 @@ article.embedWrapper_b558d0.embedFlexGrow_b558d0.embedFull_b0068a.embed_b0068a.m
   justify-content: space-evenly;
 }
 */
-
-
-
-
-
-
-
 .sidebarRegionScroller_c25c6d {
   background-color: var(--darkplus-bg);
 }
@@ -1648,6 +1641,7 @@ button[aria-label="Send a gift"] {
 
 	--accent-2: #fad9f6; /* online */
 	--accent-3: #fad9f6; /* accent buttons */
+  --text-0: #2c2a2c; /* text on colored elements */
 
 	/* amount of spacing and padding */
 	--spacing: 12px;
@@ -1871,7 +1865,7 @@ path[fill='var(--white-500)'] {
 	opacity: 1;
 }
 ::selection {
-	background: var(--accent-4);
+	background: var(--darkplus-bg2);
 	color: var(--text-0);
 }
 .lookFilled_f6639d.select_f6639d {
