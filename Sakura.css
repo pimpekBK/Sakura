@@ -1818,7 +1818,7 @@ path[fill='var(--white-500)'] {
 	background-color: var(--text-0);
 }
 .container_cebd1c /* settings checkbutton background */ {
-	background: var(--bg-1) !important;
+	background: var(--darkplus-bg2) !important;
 }
 .container_cebd1c.checked_cebd1c > .slider_cebd1c > rect /* settings checkbutton circle */,
 .userMenuItem_e1268c path[fill="var(--white-500)"] /* account switcher account hover */,
