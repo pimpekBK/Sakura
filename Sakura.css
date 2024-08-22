@@ -19,7 +19,7 @@
   background-color: var(--darkplus-bg);
 }
 .bg_d4b6c5 {
-  background-color: var(--darkplus-bg);
+  background-color: var(--darkplus-bg); /* o */
 }
 .scrollerInner_e2e187 {
   background-color: var(--darkplus-bg);
