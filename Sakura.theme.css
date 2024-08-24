@@ -13,6 +13,8 @@
   --darkplus-rg: #3d383d;
   --darkplus-rg2: #504a50;
   --background-secondary: #383538;
+  	--accent-4: #e6c4e3;
+	--brand-500: var(--accent-4);
 }
 .bg_d4b6c5,
 .container_e40c16 {
