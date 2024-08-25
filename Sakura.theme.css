@@ -23,6 +23,8 @@
   --background-secondary: #383538;
   --accent-4: #555155;
 	--brand-500: var(--accent-4);
+	--background-primary: var(--bg-4);
+	--home-background: var(--bg-4);
 }
 .bg_d4b6c5,
 .container_e40c16 {
