@@ -456,7 +456,33 @@
   }
   rect[fill='#f23f43'],
   svg[fill='#f23f43'] {
-	  fill: var(--offline);
+	  fill: var(--offline);}
+:root {
+  
+	  --corner-text: 'ㅤㅤㅤㅤ ㅤㅤㅤ    ㅤㅤㅤㅤㅤSakura';
+  }
+  .platform-osx .container_a4d4d9 {
+	  margin-top: 32px;
+  } */
+  
+  [class^='wordmarkWindows'] {
+	  padding: 4px var(--spacing);
+  }
+  [class^='wordmarkWindows'] > svg {
+	  display: none;
+  }
+  [class^='wordmarkWindows']::after {
+	  content: var(--corner-text);
+	  display: block;
+	  position: relative;
+	  height: 16px;
+	  line-height: 16px;
+	  font-family: var(--font);
+	  font-size: 13px;
+	  font-weight: 900;
+	  color: var(--text-5);
+	  transform: scaleX(1.2);
+	  margin-left: 6px;
   }
   a[href="https://support.discord.com"] /* hide help */
   {
@@ -657,31 +683,4 @@
   }
   .container_a4d4d9 > [style$='display: flex;'] {
 	  margin: 0 0 var(--spacing) var(--spacing);
-  }
-  :root {
-  
-	  --corner-text: 'ㅤㅤㅤㅤ ㅤㅤㅤ    ㅤㅤㅤㅤㅤSakura';
-  }
-  .platform-osx .container_a4d4d9 {
-	  margin-top: 32px;
-  } */
-  
-  [class^='wordmarkWindows'] {
-	  padding: 4px var(--spacing);
-  }
-  [class^='wordmarkWindows'] > svg {
-	  display: none;
-  }
-  [class^='wordmarkWindows']::after {
-	  content: var(--corner-text);
-	  display: block;
-	  position: relative;
-	  height: 16px;
-	  line-height: 16px;
-	  font-family: var(--font);
-	  font-size: 13px;
-	  font-weight: 900;
-	  color: var(--text-5);
-	  transform: scaleX(1.2);
-	  margin-left: 6px;
   }
