@@ -14,6 +14,7 @@
     --bg: #2c2a2c;
     --bg2: #383538;
     --sec: #fad9f6;
+    --sec2: #504b4f;
     --links: #e6c4e3;
     --rg: #3d383d;
     --rg2: #504a50;
@@ -42,6 +43,10 @@
     --r-4: 12px; 
     --r-5: 10px; 
     --r-6: 8px; 
+  }
+ .jumpToPresentBar_cf58b5 {
+  background-color: var(--sec2);
+  border-radius: 20px;
   }
   .item-1OdjEX, .icon_ad923e, .userTagDiscriminatorNoNickname-2HLaIE {
   color: var(--sec);
