@@ -422,22 +422,22 @@
   }
 .content_a7d72e:before {
   box-shadow: none !important;
-}
+  }
 .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b {
   max-height: 45vh;
   background-color: var(--bg2);
   border-radius: 22px;
-}
+  }
 .form_a7d72e .channelTextArea_a7d72e {
   background-color: transparent;
-}
+  }
 .form_a7d72e:before {
   display: none;
-}
+  }
 .wrapper_cd82a7:hover,
 .wrapper_cd82a7.active_ac5d22 {
   background-color: var(--rg2) !important; 
-}
+  }
   .userPanelOuter_c69a7b {
 	  --background-secondary-alt:!important;
   }
@@ -468,7 +468,7 @@
   rect[fill='#f23f43'],
   svg[fill='#f23f43'] {
 	  fill: var(--offline);}
-:root {
+  :root {
   
 	  --corner-text: 'ㅤㅤㅤㅤ ㅤㅤㅤ    ㅤㅤㅤㅤㅤSakura';
   }
