@@ -44,6 +44,12 @@
     --r-5: 10px; 
     --r-6: 8px; 
   }
+ .channelHeader_f3978e {
+  background-color: var(--bg);
+  }
+ .messageContainer_ddb5b4 {
+  background-color: var(--bg2);
+  }
  .jumpToPresentBar_cf58b5 {
   background-color: var(--sec2);
   border-radius: 20px;
