@@ -348,6 +348,18 @@
   .membersGroup_cbd271 {
 	color: var(--links);
   }
+  path[fill='rgba(35, 165, 90, 1)'] {
+	fill: var(--sec);
+  }
+  .container_cebd1c.checked_cebd1c{
+	background: var(--sec) !important;
+  }
+  .container_cebd1c > .slider_cebd1c > rect{
+	fill: var(--bg);
+  }
+  .container_cebd1c{
+	background: var(--bg2) !important;
+  }
   .member_cbd271, .members_cbd271 {
 	background-color: var(--bg);
   }
@@ -417,25 +429,25 @@
   .channel_c91bad:hover {
 	  margin-left: 18px;
   }
-.chatContent_a7d72e {
+  .chatContent_a7d72e {
 	max-width: calc(100% - 60px);
   }
-.content_a7d72e:before {
+  .content_a7d72e:before {
   box-shadow: none !important;
   }
-.form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b {
+  .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b {
   max-height: 45vh;
   background-color: var(--bg2);
   border-radius: 22px;
   }
-.form_a7d72e .channelTextArea_a7d72e {
+  .form_a7d72e .channelTextArea_a7d72e {
   background-color: transparent;
   }
-.form_a7d72e:before {
+  .form_a7d72e:before {
   display: none;
   }
-.wrapper_cd82a7:hover,
-.wrapper_cd82a7.active_ac5d22 {
+  .wrapper_cd82a7:hover,
+  .wrapper_cd82a7.active_ac5d22 {
   background-color: var(--rg2) !important; 
   }
   .userPanelOuter_c69a7b {
