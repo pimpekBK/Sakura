@@ -695,3 +695,6 @@
   .container_a4d4d9 > [style$='display: flex;'] {
 	  margin: 0 0 var(--spacing) var(--spacing);
   }
+  .theme-dark .root_f9a4c9 {
+   background-color: var(--bg);
+  }
