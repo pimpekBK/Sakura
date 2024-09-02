@@ -44,13 +44,13 @@
     --r-5: 10px; 
     --r-6: 8px; 
   }
- .channelHeader_f3978e {
+  .channelHeader_f3978e {
   background-color: var(--bg);
   }
- .messageContainer_ddb5b4 {
+  .messageContainer_ddb5b4 {
   background-color: var(--bg2);
   }
- .jumpToPresentBar_cf58b5 {
+  .jumpToPresentBar_cf58b5 {
   background-color: var(--sec2);
   border-radius: 20px;
   }
@@ -151,6 +151,9 @@
   }
   .markup_f8f345 blockquote, .markup_f8f345 pre {
 	max-width: 100%;
+  }
+  .theme-dark .closeButton_df5532 {
+  border-color: var(--sec);
   }
   .avatar_f9f2ca.clickable_f9f2ca {
 	filter: drop-shadow(0 0 5px);
