@@ -43,6 +43,7 @@
     --r-4: 12px; 
     --r-5: 10px; 
     --r-6: 8px; 
+	--primary-630: var(--bg2);
   }
   .channelHeader_f3978e {
   background-color: var(--bg);
