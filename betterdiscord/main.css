@@ -312,6 +312,12 @@
   children_fc4f04:after {
 	background: var(--bg);
   }
+  .status_c7d26b[style='background-color: rgb(240, 178, 50);'] {
+	background-color: var(--iddle) !important;
+  }
+.status_c7d26b[style='background-color: rgb(242, 63, 67);'] {
+	background-color: var(--offline) !important;
+   }
   .icon_fc4f04,
   .title_fc4f04,
   .tabBar_c2739c .item_c2739c,
