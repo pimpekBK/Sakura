@@ -61,6 +61,10 @@
   .container_e40c16 {
 	background-color: var(--bg);
   }
+  .message_d5deea.mentioned_d5deea:before,
+  .botTagOP_a9e77f{
+	background: var(--sec);
+  }
   .form_a7d72e {
 	background-color: var(--bg);
   }
