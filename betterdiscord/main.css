@@ -160,6 +160,12 @@
   .theme-dark .closeButton_df5532 {
   border-color: var(--sec);
   }
+  #app-mount .bd-switch-checked .bd-switch-body 
+  {background-color: var(--sec)
+  }
+  #app-mount .bd-switch-checked .bd-switch-body svg path 
+  {fill: var(--sec)
+  }
   .avatar_f9f2ca.clickable_f9f2ca {
 	filter: drop-shadow(0 0 5px);
 	color: var(--sec);
