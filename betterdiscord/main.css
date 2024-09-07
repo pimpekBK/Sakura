@@ -231,6 +231,10 @@
   .item_c4cd66 {
 	background-color: var(--sec);
   }
+  .iconBadge_c96c45.isCurrentUserConnected_c96c45{
+  background-color: var(--sec);
+  color: var(--bg2);
+  }
   .subtext_be40e6 {
 	color: var(--links);
   }
