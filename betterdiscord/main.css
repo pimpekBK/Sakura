@@ -403,6 +403,9 @@
   .theme-dark .scroller_c47fa9 {
 	background: var(--bg) !important;
   }
+  .theme-dark {
+  --modal-background: var(--bg);
+  }
   .wrapper_f7e168 {
 	background-color: var(--bg2);
   }
