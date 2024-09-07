@@ -217,6 +217,11 @@
   .members_cbd271:hover .membersGroup_cbd271 {
 	  height: 40px;
   }
+  .container_b2ca13 ,
+  .numberBadge_df8943 ,
+  .toolbar_fc4f04 {
+  --status-danger: var(--offline);
+  }
   .unread_d8bfb3 {
 	background-color: var(--sec);
   }
