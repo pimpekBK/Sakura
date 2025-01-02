@@ -77,6 +77,9 @@
   .topSection-13QKHs {
 	background-color: transparent;
   }
+   .button_df39bd {
+  background: var(--bg);
+  }
   .container_bf550a {
 	background-color: var(--bg);
   }
@@ -200,6 +203,11 @@
   .membersWrap_cbd271:hover {
 	  min-width: 240px;
 	  width: 240px;
+  }
+  .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_bdf0de {
+  max-height: 45vh;
+  background-color: var(--bg2);
+  border-radius: 22px;
   }
   .membersWrap_cbd271 {
 	  height: 100%;
@@ -738,4 +746,7 @@
   }
   .container_a4d4d9 > [style$='display: flex;'] {
 	  margin: 0 0 var(--spacing) var(--spacing);
+  }
+  .footer_d71945 {
+	background: var(--bg-overlay-app-frame, var(--bg));
   }
